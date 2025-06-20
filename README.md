@@ -16,11 +16,9 @@
 ### 🖥 Backend
 - 🟩 Node.js & Express.js
 - 🌿 MongoDB with Mongoose
-- 🔗 RESTful APIs
 
 ### 🛠 Tools & Platforms
 - 🧑‍💻 Visual Studio Code
-- 🧪 Postman
 - 🧰 Git & GitHub
 - ☁️ Learning AWS & Cloud Basics
 
