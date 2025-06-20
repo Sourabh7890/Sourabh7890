@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Sourabh Raut
 
-<!--
-**Sourabh7890/Sourabh7890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student @ Dr. D. Y. Patil Institute of Management & Research 
+💻 Full Stack Developer | MERN Stack  
+🌐 Passionate about building real-world web apps  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack:
+- Frontend: HTML, CSS, JavaScript, React.js, Tailwind
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Version Control: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: sourabhraut078@gmail.com
